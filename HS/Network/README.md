@@ -1,5 +1,7 @@
 ### ❤️‍🔥네트워크 (0626 ~ 0709)
+
 **(1주차)**
+
 - 대역폭
 - OSI 7 계층
 - TCP 3 way handshake & 4 way handshake
@@ -9,6 +11,7 @@
 - 네트워크 기기
 
 **(2주차)**
+
 - 대칭키 & 공개키
 - HTTP & HTTPS
 - REST API, RESTful

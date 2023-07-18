@@ -7,7 +7,7 @@
 💡 **격주(과목 공부 끝나는 주) 월요일에 온라인**으로 모여서 내용 정리하기
 ___
 
-### ❤️‍🔥네트워크 (0626 ~ 0709)
+### ❤️‍🔥네트워크 (0626 ~ 0717)
 **(1주차)**
 - 대역폭
 - OSI 7 계층
@@ -30,6 +30,25 @@ ___
 - Blocking & Non-Blocking I/O
 
 ___
+
+### ❤️‍🔥데이터베이스 (0718 ~ 0824)
+- Schema
+- 키(Key) 정리
+- SQL - JOIN
+- SQL Injection
+- SQL vs NoSQL
+- RDBMS
+- ERD
+___
+- 정규화 (Normalization), 이상 ( Anomaly)
+- 인덱스 (INDEX)
+- 트랜잭션(Transaction)
+- 트랜잭션 격리 수준 (Transaction Isolation Level)
+- 저장 프로시저 (Stored Procedure)
+- 레디스 (Redis)
+
+___
+
 ### ❤️‍🔥WEB (0710 ~ 0723)
 **(3주차)**
 - 브라우저 동작 방법
